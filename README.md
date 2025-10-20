@@ -33,3 +33,20 @@ The goal is to bridge theory and practice by documenting how research concepts c
 - [A Comprehensive Overview of Large Language Models](https://arxiv.org/pdf/2307.06435)
 
 - [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223)
+
+
+## Stanford CME295
+
+- [cheatsheet-transformers-large-language-models.pdf](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf)
+
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
+
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473)
+
+- [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+
+- []()
+
+- []()
+
+- []()
