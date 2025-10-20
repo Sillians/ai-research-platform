@@ -37,6 +37,8 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 ## Stanford CME295
 
+### Lecture 1 - Transformer
+
 - [cheatsheet-transformers-large-language-models.pdf](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf)
 
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
@@ -44,6 +46,9 @@ The goal is to bridge theory and practice by documenting how research concepts c
 - [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473)
 
 - [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+
+
+### Lecture 2 - Transformer-Based Models & Tricks
 
 - []()
 
