@@ -34,6 +34,7 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223)
 
+- [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363)
 
 ## Stanford CME295
 
