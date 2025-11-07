@@ -36,6 +36,9 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363)
 
+- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509)
+
+
 ## Stanford CME295
 
 ### Lecture 1 - Transformer
