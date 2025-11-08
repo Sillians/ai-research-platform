@@ -46,6 +46,8 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
 
+- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661)
+
 
 ## Stanford CME295
 
