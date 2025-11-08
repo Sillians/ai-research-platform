@@ -38,6 +38,14 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509)
 
+- [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
+
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167)
+
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796)
+
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
+
 
 ## Stanford CME295
 
