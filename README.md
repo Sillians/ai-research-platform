@@ -48,6 +48,8 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661)
 
+- [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028)
+
 
 ## Stanford CME295
 
