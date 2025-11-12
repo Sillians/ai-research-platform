@@ -51,6 +51,63 @@ The goal is to bridge theory and practice by documenting how research concepts c
 - [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028)
 
 
+## Deep Reinforcement Learning
+
+### 1. Model-Free RL
+
+
+### 2. Exploration
+
+
+### 3. Transfer and Multitask RL
+
+
+
+### 4. Hierarchy
+
+
+
+
+### 5. Memory
+
+
+
+
+### 6. Model-Based RL
+
+
+
+
+
+### 7. Meta-RL
+
+
+
+
+
+### 8. Scaling RL
+
+
+
+
+
+
+### 9. RL in the Real World
+
+
+
+
+
+
+### 10. Safety
+
+
+
+
+
+
+
+
 ## Stanford CME295
 
 ### Lecture 1 - Transformer
