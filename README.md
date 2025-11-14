@@ -50,6 +50,13 @@ The goal is to bridge theory and practice by documenting how research concepts c
 
 - [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028)
 
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/pdf/1811.12808)
+
+- [Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges](https://arxiv.org/pdf/2308.00031v3)
+
+- [Introduction to Reinforcement Learning](https://arxiv.org/pdf/2408.07712)
+
+- 
 
 ## Deep Reinforcement Learning
 
